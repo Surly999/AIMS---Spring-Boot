@@ -1,4 +1,4 @@
-# ProjectTest
+# AIMS_Spring_Boot
 Audit Irregularities Management System
 # Overview
 AIMS (Audit Irregularities Management System) is a comprehensive solution designed to streamline the audit process by reducing audit cycle times and increasing the efficiency in resolving irregularities. This system is particularly beneficial for organizations seeking to enhance their audit procedures, ensuring timely and effective resolution of issues.
