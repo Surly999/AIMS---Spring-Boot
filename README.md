@@ -36,9 +36,13 @@ Advanced Password Encryption: Enhanced security measures to protect user data an
 # Tech Stack
 
 Frontend : JSP
+
 Backend: Java, Spring Boot
+
 Security: Spring Security
+
 Database: MySQL 
+
 Build Tool: Maven 
 
 Other Tools:
